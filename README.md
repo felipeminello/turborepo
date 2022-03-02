@@ -75,3 +75,8 @@ Learn more about the power of Turborepo:
 - [Scoped Tasks](https://turborepo.org/docs/features/scopes)
 - [Configuration Options](https://turborepo.org/docs/reference/configuration)
 - [CLI Usage](https://turborepo.org/docs/reference/command-line-reference)
+
+## Reference vídeos
+
+- [Part 1](https://www.youtube.com/watch?v=YQLw5kJ1yrQ)
+- [Part 2](https://www.youtube.com/watch?v=ns53hT4yZl0)
